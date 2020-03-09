@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "574201462747",
+    "firebase_url": "https://stitax-fccd1.firebaseio.com",
+    "project_id": "stitax-fccd1",
+    "storage_bucket": "stitax-fccd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574201462747:android:9cab7517c64959e74031fe",
+        "android_client_info": {
+          "package_name": "com.uz.taxation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574201462747-ofs03o8di0scfhqvmb05kl90g9ciai77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcAiPkkt0wMaGtx4RYG2VLRIygzrHeLzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574201462747-ofs03o8di0scfhqvmb05kl90g9ciai77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
